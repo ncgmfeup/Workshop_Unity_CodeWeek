@@ -7,4 +7,6 @@ The assets for this game can be downloaded [here](https://bit.ly/Workshop_Unity_
 
 ## How to Play
 
-To play the game, just download the Game.zip folder, unzip it and run the **Workshop Unity.exe**.
+To play the game on Windows, just download the Game.zip folder, unzip it and run the **Workshop Unity.exe**.
+
+If you don't want to download the game, you can play it [here](https://necgm.itch.io/workshop-unity-2020).
